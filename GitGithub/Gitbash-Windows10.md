@@ -1,0 +1,5 @@
+o que é e para o que serve o Git Bash:
+O Git Bash é uma interface de linha de comando que permite usar o Git, uma ferramenta de controle de versão, em sistemas Windows. Ele simula um terminal Unix, onde você pode rodar comandos Git e executar outros comandos do sistema operacional, como se estivesse em um ambiente Linux ou Mac. Ele serve principalmente para gerenciar versões de código, fazer commits, branches, merges, entre outros.
+
+o que é e para que serve o Git Hub: 
+O GitHub é uma plataforma online de hospedagem de código-fonte que usa o Git para controle de versão. Ele permite que desenvolvedores armazenem, compartilhem e colaborem em projetos de software. Serve para gerenciar repositórios de código, facilitar o trabalho em equipe, e acompanhar o histórico de mudanças feitas no código. Além disso, oferece funcionalidades como pull requests, issues, e integração com outras ferramentas.
